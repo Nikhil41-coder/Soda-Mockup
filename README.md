@@ -11,10 +11,9 @@
 ## 🥤 Project Preview
 
 <p align="center">
-<img src="preview.png" width="800">
+<img src="Screenshot 2026-03-16 190832.png" width="800">
 </p>
 
-> Replace **preview.png** with a screenshot of the project homepage.
 
 ---
 
