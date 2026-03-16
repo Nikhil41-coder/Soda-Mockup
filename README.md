@@ -1,57 +1,55 @@
-# 🥤 CSS Soda Mockup Animation
+# 🥤 CSS Soda Mockup
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSS+Only+Soda+Mockup;Creative+Product+Showcase;Modern+Web+Animation;Built+By+Nikhil+H.N" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSS+Only+Soda+Mockup;Creative+Product+Showcase;Modern+Frontend+Design;Built+By+Nikhil+H.N" />
 
 </div>
 
 ---
 
-# 🥤 Soda Product Mockup
+## 🥤 Project Preview
 
-<div align="center">
+<p align="center">
+<img src="preview.png" width="800">
+</p>
 
-<img src="preview.gif" width="800"/>
-
-</div>
-
-> ⚠️ Replace `preview.gif` with a short screen recording of your animation for the best effect.
+> Replace **preview.png** with a screenshot of the project homepage.
 
 ---
 
-# 🎨 Project Overview
+## 🎨 Project Overview
 
-This project is a **CSS-only Soda Product Mockup** created to demonstrate creative front-end design techniques.
+This project is a **CSS-only Soda Product Mockup** designed to showcase creative front-end design techniques.
 
-The page showcases a **modern product banner layout** where soda cans, background textures, and rock elements combine to create a **dynamic product display**.
+The page creates a **modern product showcase** using layered elements like soda cans, rock textures, and background images to simulate a **3D-style product banner**.
 
-The goal of this project is to explore how **visually rich product pages can be built using only HTML and CSS**.
+The goal of this project is to demonstrate how **visually rich designs can be built using only HTML and CSS**.
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-🥤 Animated soda product display  
-🎨 Stylish product mockup layout  
+🥤 Creative soda product mockup  
+🎨 Modern product showcase layout  
 🪨 Layered rock elements for depth  
 ⚡ Smooth CSS visual effects  
 🚀 Lightweight design  
-💻 Built without JavaScript
+💻 Built using only HTML & CSS  
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|--------|
 | HTML5 | Page structure |
 | CSS3 | Styling & visual effects |
-| Custom Images | Product & background assets |
+| Custom Assets | Product and background images |
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 Soda-Mockup
@@ -70,7 +68,7 @@ Soda-Mockup
 
 ---
 
-# 🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 Clone the repository
 
@@ -88,36 +86,33 @@ in your browser.
 
 ---
 
-# 🎯 Learning Goals
+## 🎯 Learning Goals
 
 This project demonstrates:
 
-• Creative **CSS layout design**  
-• **Product mockup styling**  
-• **Layered composition techniques**  
-• Building **visual UI without JavaScript**
+- Creative **CSS layout techniques**
+- **Product mockup design**
+- **Layered visual composition**
+- Building **interactive UI without JavaScript**
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
-✨ Product rotation animation  
-✨ Hover effects on soda cans  
+✨ Product hover animation  
 ✨ Mobile responsiveness  
-✨ Lighting / glow effects  
-✨ Multiple soda flavors
+✨ Additional product variations  
+✨ Lighting / shadow effects  
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Nikhil H.N**
 
-Front-End Developer | Creative UI Designer
-
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project:
 
